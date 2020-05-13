@@ -10,7 +10,7 @@ export default class Friend extends Component {
   // //ES6 Method to bind state with function
   render() {
     const { id, img, name, age, country } = this.props.info;
-    const { handleDelete } = this.props.handleDelete;
+    const { handleDelete } = this.props;
     return (
       <div className="friend">
         <img src={img} alt="friend_image" />
