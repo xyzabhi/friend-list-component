@@ -1,0 +1,73 @@
+const friends = [
+  {
+    id: 1,
+    img: "https://robohash.org/PC1.png?set=set2&size=150x150",
+    name: "John doe",
+    age: "23",
+    country: "France",
+  },
+  {
+    id: 2,
+    img: "https://robohash.org/PC2.png?set=set2&size=150x150",
+    name: "Aohn doe",
+    age: "22",
+    country: "Australia",
+  },
+  {
+    id: 3,
+    img: "https://robohash.org/PC3.png?set=set2&size=150x150",
+    name: "JBohn doe",
+    age: "27",
+    country: "Britan",
+  },
+  {
+    id: 4,
+    img: "https://robohash.org/PC4.png?set=set2&size=150x150",
+    name: "JCohn doe",
+    age: "20",
+    country: "USA",
+  },
+  {
+    id: 5,
+    img: "https://robohash.org/PC5.png?set=set2&size=150x150",
+    name: "Cris patt",
+    age: "45",
+    country: "Mexico",
+  },
+  {
+    id: 10,
+    img: "https://robohash.org/PC6.png?set=set2&size=150x150",
+    name: "Robert kisn",
+    age: "43",
+    country: "Japan",
+  },
+  {
+    id: 7,
+    img: "https://robohash.org/PC7.png?set=set2&size=150x150",
+    name: "Cris doe",
+    age: "33",
+    country: "China",
+  },
+  {
+    id: 8,
+    img: "https://robohash.org/PC8.png?set=set2&size=150x150",
+    name: "Abdul kamal",
+    age: "37",
+    country: "Pakistan",
+  },
+  {
+    id: 11,
+    img: "https://robohash.org/PC9.png?set=set2&size=150x150",
+    name: "Ramesh kumar",
+    age: "32",
+    country: "India",
+  },
+  {
+    id: 9,
+    img: "https://robohash.org/PC10.png?set=set2&size=150x150",
+    name: "Jing xoe",
+    age: "21",
+    country: "Korea",
+  },
+];
+export default friends;
